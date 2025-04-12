@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studing on Software engineer **Digital-Appointment**
 
-- 🌱 I’m currently learning **Django,Node.js and express.js and other framwork**
+- 🌱 I’m currently learning **Django,Node.js and express.js ,Mysql**
 
 - 👯 I’m looking to collaborate on team **Attendance Mangment Application**
 
